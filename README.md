@@ -19,7 +19,6 @@
 - It is the page where the recipe and image of the dish that the user wants to share are added.
 
 
-<video src= 'https://github.com/elifgenc728/SweetGYM-RegistryApp/assets/76621852/b4aa3ea4-0e98-4950-8cfb-eb0459f441b8'
 
 
 
