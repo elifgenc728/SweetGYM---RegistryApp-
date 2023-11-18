@@ -17,8 +17,10 @@
 
 ### Create Reistry Page & Member Home Page
 - It is the page where the recipe and image of the dish that the user wants to share are added.
-  
-![gif]https://github.com/elifgenc728/SweetGYM-RegistryApp/assets/76621852/10710061-09ed-48a3-b58c-73e7c7654a85
+
+
+<video src= 'https://github.com/elifgenc728/SweetGYM-RegistryApp/assets/76621852/b4aa3ea4-0e98-4950-8cfb-eb0459f441b8'
+
 
 
 
