@@ -19,7 +19,7 @@
 ![image](https://github.com/elifgenc728/SweetGYM-RegistryApp/assets/76621852/4ccfc865-db93-4b3b-9bd8-4dfb2e37b2c4)
 
 
-### Create Reistry Page & Member Home Page
+### Create Registry Page & Member Home Page
 - The user completes his/her membership registration by entering all the information completely.
   
 https://github.com/elifgenc728/SweetGYM-RegistryApp/assets/76621852/8d87e798-4dee-4872-85e8-f69091f9568f
