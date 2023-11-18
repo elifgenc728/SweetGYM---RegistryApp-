@@ -12,16 +12,14 @@
 ### Welcome Page
 - It is the page that allows users to log in and register to the application.
 
-<p align="center">
-   <img src="![image](https://github.com/elifgenc728/SweetGYM-RegistryApp/assets/76621852/4ccfc865-db93-4b3b-9bd8-4dfb2e37b2c4)" >
-</p>
+![image](https://github.com/elifgenc728/SweetGYM-RegistryApp/assets/76621852/4ccfc865-db93-4b3b-9bd8-4dfb2e37b2c4)
+
 
 ### Create Reistry Page & Member Home Page
 - It is the page where the recipe and image of the dish that the user wants to share are added.
 
-<p align="center">
+![image](https://github.com/elifgenc728/SweetGYM-RegistryApp/assets/76621852/24e87628-a9a1-4a73-9d4d-e0ee60f2b29a) 
 
-<img alt="Light" src="![image](https://github.com/elifgenc728/SweetGYM-RegistryApp/assets/76621852/24e87628-a9a1-4a73-9d4d-e0ee60f2b29a)" width="330">
-</p>
+
 
 
