@@ -11,10 +11,9 @@
 
 ### Welcome Page
 - It is the page that allows users to log in and register to the application.
-<img src="![image](https://github.com/elifgenc728/SweetGYM-RegistryApp/assets/76621852/4ccfc865-db93-4b3b-9bd8-4dfb2e37b2c4)" >
 
 <p align="center">
-   
+   <img src="![image](https://github.com/elifgenc728/SweetGYM-RegistryApp/assets/76621852/4ccfc865-db93-4b3b-9bd8-4dfb2e37b2c4)" >
 </p>
 
 ### Create Reistry Page & Member Home Page
