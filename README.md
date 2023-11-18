@@ -10,7 +10,7 @@
 
 ## Pages
 - <a href ='#Welcome Page'> Login Page </a>
-- <a href ='#Create Reistry Page'> Share Recipe Page </a>
+- <a href ='#Create Registry Page'> Share Recipe Page </a>
 - <a href ='#Member Home Page'> Recipes Page </a>
 
 ### Welcome Page
