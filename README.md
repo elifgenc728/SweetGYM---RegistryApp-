@@ -9,9 +9,9 @@
 </p>
 
 ## Pages
-- <a href ='#Welcome Page'> Login Page </a>
-- <a href ='#Create Registry Page'> Share Recipe Page </a>
-- <a href ='#Member Home Page'> Recipes Page </a>
+- <a href ='#Welcome Page'> Welcome Page </a>
+- <a href ='#Create Registry Page'> Create Registry Page </a>
+- <a href ='#Member Home Page'> Member Home Page </a>
 
 ### Welcome Page
 - On this page, I direct the user who wants to become a gym member to the member registration page.
